@@ -1,6 +1,6 @@
 # Math-Series
 
-Link to Latest PR
+Link to PR: https://github.com/Bhattb2/math-series
 
 This is a series of functions printing the nth values at fibonacci series and lucas series using 6 different styles with test files in place.
 
